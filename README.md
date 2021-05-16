@@ -1,0 +1,2 @@
+# SOP
+operating systems PJATK
